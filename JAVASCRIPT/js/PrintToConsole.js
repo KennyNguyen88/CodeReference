@@ -1,0 +1,1 @@
+console.log("Something to print with new line !");
